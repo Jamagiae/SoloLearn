@@ -30,7 +30,7 @@ namespace SoloLearn
             float altitude = 90.265141f; // float requires 'f' at the end
             double bankBalance = -400000000;
             decimal pi = 3.14159265M; // decimal requires an M at the end
-            const double PI = 3.14;// Constanta store a value that cannot be changed
+            const double PI = 3.14;// Constants store a value that cannot be changed
 
             Console.WriteLine($"int = {myAge}.");
             Console.WriteLine($"string = {name}.");
